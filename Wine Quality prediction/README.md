@@ -11,10 +11,13 @@ I used Mean Square Error and gradient descent.
 After training my ML with 5000 EPOCHS, i got these results:
 
 My LOSS curve during the training:
+
 ![image](https://github.com/gaviera/Traditional-ML/assets/47997823/3a67efb0-3d07-4088-b224-d89bebfffd9d)
 
 This graph show's the training data and predictions with test data:
+
 ![image](https://github.com/gaviera/Traditional-ML/assets/47997823/fd566041-7813-4e40-8394-8e885bbfa67d)
+
 As we can see, the training data are integers from 0 to 10, so problably that's why i got kinda low predictions...
 
 
